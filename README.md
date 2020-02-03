@@ -71,6 +71,7 @@ delete from usersContact
 where id = 114;
 
 * DELETE from usersAddress
+
 delete from usersAddress
 where id = 114;
 
